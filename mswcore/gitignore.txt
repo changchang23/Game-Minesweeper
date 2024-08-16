@@ -1,7 +1,0 @@
-test.cpp
-test
-test.txt
-test2
-mine
-.vscode/settings.json
-MineSweeper
