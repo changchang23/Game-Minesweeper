@@ -5,7 +5,9 @@
 * Cách tải, liên kết thư viện SDL2 với project và tutorial SDL2, tham khảo tại: https://lazyfoo.net/tutorials/SDL/index.php
   https://www.youtube.com/watch?v=k1JGvJU707k&list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C
 * Trò chơi có sử dụng hình ảnh tại: https://www.flaticon.com/
-* Hướng dẫn tải game: Sau khi tải code về dưới dạng zip, giải nén và chạy code bằng cách vào mục "GAMEPROJECT.sln" (chạy bằng Visual Studio)  . 
+* Hướng dẫn tải game: Sau khi tải code về dưới dạng zip, giải nén và chạy code bằng cách vào mục "GAMEPROJECT.sln" (chạy bằng Visual Studio).
+* ![Ảnh chụp màn hình 2024-08-17 175529](https://github.com/user-attachments/assets/1655db5c-517f-46c3-a061-92aed3efd90c)
+ 
 * Mọi hình ảnh, âm thanh và font chữ được sử dụng trong trò chơi được lưu trong thư mục res.
 
 
