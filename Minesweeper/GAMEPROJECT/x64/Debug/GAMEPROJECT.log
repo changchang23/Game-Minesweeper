@@ -1,0 +1,26 @@
+﻿  GAMEPROJECT.cpp
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "struct SDL_Renderer * __cdecl createRenderer(struct SDL_Window *)" (?createRenderer@@YAPEAUSDL_Renderer@@PEAUSDL_Window@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "struct SDL_Window * __cdecl initSDL(int,int,char const *)" (?initSDL@@YAPEAUSDL_Window@@HHPEBD@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_DestroyWindow referenced in function "void __cdecl quitSDL(struct SDL_Window *,struct SDL_Renderer *)" (?quitSDL@@YAXPEAUSDL_Window@@PEAUSDL_Renderer@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "void __cdecl waitUntilKeyPressed(void)" (?waitUntilKeyPressed@@YAXXZ)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_SetHint referenced in function "struct SDL_Renderer * __cdecl createRenderer(struct SDL_Window *)" (?createRenderer@@YAPEAUSDL_Renderer@@PEAUSDL_Window@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_LogMessage referenced in function "void __cdecl logErrorAndExit(char const *,char const *)" (?logErrorAndExit@@YAXPEBD0@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "struct SDL_Renderer * __cdecl createRenderer(struct SDL_Window *)" (?createRenderer@@YAPEAUSDL_Renderer@@PEAUSDL_Window@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_RenderSetLogicalSize referenced in function "struct SDL_Renderer * __cdecl createRenderer(struct SDL_Window *)" (?createRenderer@@YAPEAUSDL_Renderer@@PEAUSDL_Window@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "void __cdecl drawSomething(struct SDL_Window *,struct SDL_Renderer *)" (?drawSomething@@YAXPEAUSDL_Window@@PEAUSDL_Renderer@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function SDL_main
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_RenderDrawPoint referenced in function "void __cdecl drawSomething(struct SDL_Window *,struct SDL_Renderer *)" (?drawSomething@@YAXPEAUSDL_Window@@PEAUSDL_Renderer@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_RenderDrawLine referenced in function "void __cdecl drawSomething(struct SDL_Window *,struct SDL_Renderer *)" (?drawSomething@@YAXPEAUSDL_Window@@PEAUSDL_Renderer@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_RenderFillRect referenced in function "void __cdecl drawSomething(struct SDL_Window *,struct SDL_Renderer *)" (?drawSomething@@YAXPEAUSDL_Window@@PEAUSDL_Renderer@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function SDL_main
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_DestroyRenderer referenced in function "void __cdecl quitSDL(struct SDL_Window *,struct SDL_Renderer *)" (?quitSDL@@YAXPEAUSDL_Window@@PEAUSDL_Renderer@@@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_Delay referenced in function "void __cdecl waitUntilKeyPressed(void)" (?waitUntilKeyPressed@@YAXXZ)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "struct SDL_Window * __cdecl initSDL(int,int,char const *)" (?initSDL@@YAPEAUSDL_Window@@HHPEBD@Z)
+GAMEPROJECT.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function "void __cdecl logErrorAndExit(char const *,char const *)" (?logErrorAndExit@@YAXPEBD0@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\code nek\GAMEPROJECT\LibSdl2\SDL2-2.0.8\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\code nek\GAMEPROJECT\LibSdl2\SDL2-2.0.8\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\code nek\GAMEPROJECT\LibSdl2\SDL2_image-2.0.3\lib\x86\SDL2_image.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\code nek\GAMEPROJECT\LibSdl2\SDL2_mixer-2.0.2\lib\x86\SDL2_mixer.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\code nek\GAMEPROJECT\LibSdl2\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\code nek\GAMEPROJECT\x64\Debug\GAMEPROJECT.exe : fatal error LNK1120: 19 unresolved externals
