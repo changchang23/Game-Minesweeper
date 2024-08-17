@@ -1,3 +1,8 @@
+![Ảnh chụp màn hình 2024-08-17 173807](https://github.com/user-attachments/assets/bfcbfe62-6e3f-46e5-bada-8aa1a4fe01a7)
+![Ảnh chụp màn hình 2024-08-17 173752](https://github.com/user-attachments/assets/64ee6926-1b87-4d4a-b769-c13ba3f1950b)
+![Ảnh chụp màn hình 2024-08-17 173703](https://github.com/user-attachments/assets/7f3e21dc-4b03-4153-951a-164f91c2037c)
+![Ảnh chụp màn hình 2024-08-17 173608](https://github.com/user-attachments/assets/158854ed-6829-463b-997a-985e7a5b687a)
+![Ảnh chụp màn hình 2024-08-17 173549](https://github.com/user-attachments/assets/2f5afbd6-5514-4e8f-933d-90c004cf7e83)
 # MinesweeperSDL2
 # Giới thiệu về trò chơi
 * Dựa trên game [Minesweeper](https://vi.wikipedia.org/wiki/D%C3%B2_m%C3%ACn_(tr%C3%B2_ch%C6%A1i)) của Microsoft, trò chơi được làm bằng ngôn ngữ C++ và thư viện đồ hoạ SDL2.
