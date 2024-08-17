@@ -4,7 +4,7 @@
 * Mọi thông tin về thư viện SDL2, các cú pháp thường sử dụng tham khảo tại: https://www.libsdl.org/
 * Cách tải, liên kết thư viện SDL2 với project và tutorial SDL2, tham khảo tại: https://lazyfoo.net/tutorials/SDL/index.php
 * Trò chơi có sử dụng hình ảnh tại: https://www.flaticon.com/
-* Sau khi tải code về dưới dạng zip, có thể giải nén và vào thư mục exe, chạy file Game.exe để có thể chơi game. Nếu muốn tham khảo code, vào thư mục code, mở các file .h hoặc .cpp bằng notepad để xem code. 
+* Sau khi tải code về dưới dạng zip, giải nén và chạy code bằng cách vào mục "GAMEPROJECT.sln" . 
 * Mọi hình ảnh, âm thanh và font chữ được sử dụng trong trò chơi được lưu trong thư mục res.
 
 
