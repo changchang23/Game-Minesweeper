@@ -3,6 +3,7 @@
 * Dựa trên game [Minesweeper](https://vi.wikipedia.org/wiki/D%C3%B2_m%C3%ACn_(tr%C3%B2_ch%C6%A1i)) của Microsoft, trò chơi được làm bằng ngôn ngữ C++ và thư viện đồ hoạ SDL2.
 * Mọi thông tin về thư viện SDL2, các cú pháp thường sử dụng tham khảo tại: https://www.libsdl.org/
 * Cách tải, liên kết thư viện SDL2 với project và tutorial SDL2, tham khảo tại: https://lazyfoo.net/tutorials/SDL/index.php
+  https://www.youtube.com/watch?v=k1JGvJU707k&list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C
 * Trò chơi có sử dụng hình ảnh tại: https://www.flaticon.com/
 * Hướng dẫn tải game: Sau khi tải code về dưới dạng zip, giải nén và chạy code bằng cách vào mục "GAMEPROJECT.sln" (chạy bằng Visual Studio)  . 
 * Mọi hình ảnh, âm thanh và font chữ được sử dụng trong trò chơi được lưu trong thư mục res.
@@ -25,6 +26,6 @@
 * Chế độ custom:
 
 ![Ảnh chụp màn hình 2024-08-17 173807](https://github.com/user-attachments/assets/6ac34156-0db6-4323-b4e5-61f7287f419e)
-![Ảnh chụp màn hình 2024-08-17 173608](https://github.com/user-attachments/assets/8f8b6892-f485-402c-8e19-bf20fc238244)
+
 
      
